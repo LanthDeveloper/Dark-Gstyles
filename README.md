@@ -28,7 +28,7 @@ yarn add dark-gstyles
 ## Usage
 
 After installation, import the CSS file in your project:
-Where:
+
 - gs-dark: Indicates dark styles by default.
 - gs-normal: Indicates styles without default colors.
 
