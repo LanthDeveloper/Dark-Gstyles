@@ -4,7 +4,7 @@
   "description": "Package with frequent CSS styles for dark mode",
   "main": "gs-dark.css",
   "scripts": {
-    "minify": "postcss index-dark.css -o gsdark.css && postcss index-normal.css -o gsnormal.css"
+    "minify": "postcss styles/dark.css -o gsdark.css && postcss styles/normal.css -o gsnormal.css"
   },
   "files": [
     "gs-dark.css",
