@@ -1,0 +1,28 @@
+{
+  "name": "dark-gstyles",
+  "version": "1.0.11",
+  "description": "Package with frequent CSS styles for dark mode",
+  "main": "gs-dark.css",
+  "scripts": {
+    "minify": "postcss gs-dark.css -o gsdark.min.css"
+  },
+  "files": [
+    "gs-dark.css",
+    "gsdark.min.css",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "css",
+    "styles",
+    "reusable",
+    "dark-mode"
+  ],
+  "author": "Lanthdev",
+  "license": "MIT",
+  "devDependencies": {
+    "cssnano": "^7.0.6",
+    "postcss": "^8.4.47",
+    "postcss-cli": "^11.0.0"
+  }
+}
