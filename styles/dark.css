@@ -137,6 +137,10 @@ textarea {
   padding: 0.5em 0.8em;
 }
 
+textarea{
+  resize: none;
+}
+
 select {
   border: 1px solid gray;
   background-color: black;
