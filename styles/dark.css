@@ -198,3 +198,10 @@ button:disabled {
     word-break: break-all;
   }
 }
+
+.flex-1-all{
+  display: flex;
+  >*{
+     flex: 1; 
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "dark-gstyles",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "Package with frequent CSS styles for dark mode",
   "main": "gs-dark.css",
   "scripts": {
